@@ -3,7 +3,6 @@
 # splashscreen
 echo
 echo "ScreenConnect Removal Tool"
-echo "by Riley McCullagh"
 echo
 
 # check if su
